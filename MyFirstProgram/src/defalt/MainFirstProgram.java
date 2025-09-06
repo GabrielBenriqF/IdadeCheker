@@ -17,9 +17,10 @@ public class MainFirstProgram {
 				System.out.println("Você é um adolescente.");
 			}
 			else {
-				System.out.println("Você é uma criança.);
+				System.out.println("Você é uma criança.");
 			}
 		}
 	}
 
 }                                                                                                  
+
